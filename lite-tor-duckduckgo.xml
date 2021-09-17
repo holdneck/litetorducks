@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Lite Tor Ducks</ShortName>
+  <Description>Search DuckDuckGo lite over Tor</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <LongName>Lite Tor DuckDuckGo Search</LongName>
+  <Url type="text/html" method="get" template="https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/lite/?q={searchTerms}"/>
+  <Url type="application/x-suggestions+json" template="https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/lite/ac/?q={searchTerms}&amp;type=list"/>
+</OpenSearchDescription>
+
