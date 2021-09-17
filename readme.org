@@ -1,0 +1,2 @@
+I stole this from here [[https://tor.stackexchange.com/questions/6152/how-do-i-add-the-duckduckgo-onion-version-to-the-tor-browser-search-providers][answer]].
+I just tweaked it to work with duckduckgo lite version and removed the image data.
